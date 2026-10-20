@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Jherson García 👋
+# Hola, soy Jherson Garcia 👋
 
 **Estudiante de Ingeniería de Sistemas (9.º ciclo) · Universidad César Vallejo, Trujillo, Perú**
 Buscando prácticas pre-profesionales en desarrollo de software
