@@ -5,7 +5,7 @@
 **Estudiante de Ingeniería de Sistemas (9.º ciclo) · Universidad César Vallejo, Trujillo, Perú**
 Buscando prácticas pre-profesionales en desarrollo de software
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jherson-garcía-sandoval-681332445)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jherson-garcía-sandoval-681332445)
 [![Correo](https://img.shields.io/badge/Correo-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhersongs03@gmail.com)
 
 </div>
