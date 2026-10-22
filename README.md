@@ -6,7 +6,7 @@
 Buscando prácticas pre-profesionales en desarrollo de software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jherson-garcía-sandoval-681332445)
-[![Correo](https://img.shields.io/badge/Correo-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhersongs03@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jhersongs03@gmail.com)
 
 </div>
 
